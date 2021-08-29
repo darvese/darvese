@@ -1,6 +1,5 @@
 ### 👋 Hello there, I’m Erwan Darves
-- 👀 I’m mostly interested in Front End Web development
-- 🌱 I’m currently learning Gatsby
+- 👀 I’m mostly interested in Web development
 - 📫 You can contact me on my mail `erwan.darves@gmail.com`
 
 <!---
